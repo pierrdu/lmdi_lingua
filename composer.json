@@ -1,0 +1,27 @@
+{
+	"name": "lmdi/lingua",
+	"type": "phpbb-extension",
+	"description": "Modifications personnelles",
+	"homepage": "https://www.insecte.org/ext/readme.txt",
+	"version": "1.0.0",
+	"time": "2023-02-11",
+	"license": "GPL-2.0-only",
+	"authors": [
+		{
+		"name": "Pierre Duhem",
+		"email": "pierre@duhem.com",
+		"homepage": "https://www.insecte.org/ext/readme.txt",
+		"role": "Extension Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3",
+		"composer/installers": "~1.0"
+	},
+	"extra": {
+		"display-name": "LMDI Lingua",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.1.0"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+services:
+    lmdi.lingua.listener:
+        class: lmdi\lingua\event\listener
+        arguments:
+            - '@language'
+            - '@config'
+            - '@template'
+        tags:
+            - { name: event.listener }
+
