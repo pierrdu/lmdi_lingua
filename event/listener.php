@@ -2,7 +2,7 @@
 /*
 *
 * @package LMDI Lingua
-* @copyright (c) Pierre Duhem - LMDI — 2023
+* @copyright (c) Pierre Duhem - LMDI — 2023-2026
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 * 
 */
