@@ -1,0 +1,15 @@
+Subject: File Checker a détecté de nouvelles erreurs sur "{SITENAME}"
+
+{USERNAME},
+
+Une passe automatique de File Checker sur "{SITENAME}" a détecté des erreurs nouvelles ou réapparues.
+
+Erreurs nouvelles ou réapparues : {ERRORS}
+
+Ces erreurs sont des additions ou modifications de scripts ou de fichiers de configuration, ou d'autres indices d'une attaque. Vérifiez dans le Panneau d'administration :
+{U_FILECHECK}
+
+Vous avez reçu ce courriel parce que vous êtes fondateur du forum. Pour supprimer ces courriels, modifiez vos paramètres de notification :
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}

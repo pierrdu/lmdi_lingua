@@ -1,0 +1,15 @@
+Subject: File Checker needs a new core manifest on "{SITENAME}"
+
+Hello {USERNAME},
+
+A File Checker scan on "{SITENAME}" found that the core manifest is for phpBB {MANIFEST_VERSION}, but the board runs phpBB {BOARD_VERSION}.
+
+Until a core manifest for phpBB {BOARD_VERSION} is imported, the phpBB core files are not checked. Make or import it on the Manifest page of the Administration Control Panel:
+{U_FILECHECK}
+
+With automatic scans on, the board is scanned on the next cron run after the import.
+
+You receive this email because you are a founder of the board. To stop these emails, change your notification options:
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}
